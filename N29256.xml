@@ -116,8 +116,9 @@
    <text xml:lang="eng">
       <body>
          <div type="document">
-            <pb facs="tcp:038963_0000_101238F5592272C0"/>
-            <pb facs="tcp:038963_0001_10123633A87A9838" rendition="simple:additions"/>
+            <pb facs="unknown:038963_0000_101238F5592272C0"/>
+            <pb facs="unknown:038963_0001_10123633A87A9838"
+                rendition="simple:additions"/>
             <head>
                <hi>VIRGINIA:</hi> In the High Court of Chancery, MARCH 16, 1798.</head>
             <p>
@@ -147,9 +148,9 @@
                <p>And between Ned, a pauper, Pltf.</p>
                <p>And Elizabeth Pleasants, Deft.</p>
                <p>IN these causes, which came on last term to be heard on the bills, demurrers and answers, and on the testaments of John Plea<g ref="char:EOLhyphen"/>sants
-<pb n="2" facs="tcp:038963_0002_101238CB09C6CAD8"/>
+<pb n="2" facs="unknown:038963_0002_101238CB09C6CAD8"/>
 and Jonathan Pleasants, and the Journal of the House of De<g ref="char:EOLhyphen"/>legates, exhibited and read, and were argued by counsel, the court on this twelfth day of September, in the year of our Lord one thou<g ref="char:EOLhyphen"/>sand seven hundred and ninety eight, overruled the demurrers, be<g ref="char:EOLhyphen"/>cause the right to freedom proposed to be asserted by the plaintiff on behalf of certain men, women and children detained in slavery, which freedom the former owner of some of them and of the pro<g ref="char:EOLhyphen"/>genitors of others could not bestow, although solicitous to bestow it, during his life time, was, preserved, if it could he preserved, until enjoyment of the blessing would be permitted by temporary and conditional bequests of the slaves, with a confidence that in an event which might remove the legal obstacle to deliverance from thraldom, the legataries would fulfil the testator's desire, so that the intermediate possession of the legataries, if that desire were not inane was fiduciary, &amp; in such a case, the elements, from which juridical arrangements commence, prove the question which hath occurred to be peculiarly proper for praetorian animadver<g ref="char:EOLhyphen"/>sion for decision before a tribunal erected especially to foster and effectuate conscientious fideicommissa: and upon that question which is the capital subject of disceptation and some others, in consequence thereof the court declared its opinion in these terms, the condition which the testator, John Pleasants, enjoined the lega<g ref="char:EOLhyphen"/>taries, and which, if it were lawful, excepting the bequests they were obliged implicitly to perform, was not contrary to law. Such a provision for emancipation was not prohibited literally by the statute in 1748, the only instituted law then extant, which can be quoted for that purpose, enacting <q>that no slave shall be set free, upon any pretence, except for services to be adjudged by the go<g ref="char:EOLhyphen"/>vernor and council to be meritorious,</q> the statute operated only upon emancipations efficatious immediately, not those of which the efficacy was fortuitous; and ampliation of the statute giving it energy in cases of which similar predicaments might seem to require similar policy, is reprobated in this instance, where the defendants, in a court of equity, are invoking its aid to hinder the restitution of a right, of which they, on whose behalf it is claimed, and their progenitors, could not have been deprived without viola<g ref="char:EOLhyphen"/>tion of equitable constitutional principles. An objection urged by one of the counsel for the defendants, if it were not misunderstood, namely, that John Pleasants, who dying before the statute permit<g ref="char:EOLhyphen"/>ing manumission of slaves, enacted in the year 1782, was ne<g ref="char:EOLhyphen"/>ver authorised to manumit his slaves, could not enjoin manumis<g ref="char:EOLhyphen"/>sion of them in any circumstances, is founded upon a position con<g ref="char:EOLhyphen"/>ceived not to be true, unless the act required by the condition to be performed were a malum in se; that a condition requiring perfor<g ref="char:EOLhyphen"/>mance of an act, not whilst the performance would be unlawful,
-<pb n="3" facs="tcp:038963_0003_101238CDCC64AF08"/>
+<pb n="3" facs="unknown:038963_0003_101238CDCC64AF08"/>
 but when it would, if ever it should be lawful, that such a condi<g ref="char:EOLhyphen"/>tion to be performed, not after an intolerable length of time, is unlawful seems an absurd position: upon the doctrine of perpe<g ref="char:EOLhyphen"/>tuities, if applicable to any cases, in which human liberty is chal<g ref="char:EOLhyphen"/>lenged, can not be found an objection against the slaves existing at the death of the testator, John Pleasants, or against the slaves born after, of mothers existing before his death; for their cases are examples of the legitimate periods, during which emergence or lapse of contingent dispositions may be suspended, namely, where events before the termination of a life or lives existent, or of a life or lives immediately succeeding the existent, must fix the destiny. Here the slaves for whose benefit the testator intended the bequests are first, those of whom he was POSSESSED at the time of his death, and secondly, those of whose MOTHERS he was so possessed. The period of time during ability of the slaves to enjoy when the legislature should permit them to enjoy, this benefit was suspended, did not <hi>excede</hi> the tolerated period. I was during the lives of them, who survived the testator, and of them who were born after his death, of mothers surviving him, so that, in equity, of the slaves, on whose behalf this prosecution was instituted, they who were thirty years old or older, in the year one thousand seven hundred and eighty two, when the statute authorising manumis<g ref="char:EOLhyphen"/>sion was enacted, were, at that time entitled, they, who born be<g ref="char:EOLhyphen"/>fore his death are not yet thirty years old, will be when they shall attain that age, intitled to freedom, they who were born between the times of the said testator's death and of enacting the said sta<g ref="char:EOLhyphen"/>tute will be when they shall attain the same age intitled to free<g ref="char:EOLhyphen"/>dom, and they who have been born since the said statute was en<g ref="char:EOLhyphen"/>acted, were at their birth intitled to freedom; and the plaintiff not only the heir but the surviving executor of the said John Pleasants, is the proper party to vindicate that freedom, and require fulfilment of his desire repeatedly declared in his testament, and the court doth direct one of the commissioners thereof to report a catalogue of the slaves aforesaid, distinguishing the times when, according to the foregoing opinion, any of them ought heretofore to have been and hereafter to be liberated from servitude, and stating accounts of profits, to which they who have been wrongfully detained are intitled.</p>
             </div>
             <div type="days_proceedings">
@@ -160,7 +161,7 @@ but when it would, if ever it should be lawful, that such a condi<g ref="char:EO
                   </dateline>
                </opener>
                <p>The Defendants Cary Pleasants and Mary his wife, late Mary Logan, administratrix of Charles Logan, and devisee of John Pleasants and Jonathan Pleasants, deceased, Elizabeth Pleasants, administratrix of Joseph Pleasants, deceased, Isaac Pleasants and Jane his wife, Samuel Pleasants, jun. and Thomas Pleasants, junior, and Margaret his wife, in the first suit, and the defendant
-<pb n="4" facs="tcp:038963_0004_101238D0B41B66B8"/>
+<pb n="4" facs="unknown:038963_0004_101238D0B41B66B8"/>
 in the other suit prayed an appeal from the decree pronounced in these <gap reason="illegible: indecipherable" extent="3 letters">
                      <desc>•••</desc>
                   </gap>ses, on the twelfth day of the present month, which is al<g ref="char:EOLhyphen"/>lowed them on their giving bond and security in each suit in the penalty of twenty pounds, with such condition as the law requires.</p>
@@ -178,9 +179,9 @@ in the other suit prayed an appeal from the decree pronounced in these <gap reas
                         <body>
                            <div type="decree">
                               <p>This day came the parties by their coun<g ref="char:EOLhyphen"/>sel, and the court having maturely considered the transcript of the record, and the argument of the counsel, is of opinion that there is no error in so much of the decree of the said High Court of Chancery, as overruleth the demurrers of the appellants Mary Pleasants, Isaac Pleasants and Samuel Pleasants, jun. for want of jurisdiction in the said court; but that there is error in some of the principles, on which the decree upon the merits is found<g ref="char:EOLhyphen"/>ed, and part of the reasoning thereupon is not approved by this court, therefore it is decreed and ordered, that so much of the said decree as overruleth the said demurrers be affirmed, and that the residue of the said decree be reversed, and this court proceeding to make such decree as the said High Court of Chan<g ref="char:EOLhyphen"/>cery should have pronounced, is of opinion, that although the tes<g ref="char:EOLhyphen"/>tators at the time of making their respective wills had not power to manumit, and if they had devised them upon conditions that the devisees should emancipate them immediately, the condition being unlawful would have been void, and the property vested, yet the condition that they should become free when the law would permit it, was not of that sort. That to apply the rule re<g ref="char:EOLhyphen"/>specting the limitation of the remainder of a chattel upon too re<g ref="char:EOLhyphen"/>mote a contingency, with all its consequences, to the present case, would be too rigid, but that a reasonable principle ought to be adopted to suit its peculiar circumstances, which is this, that if the event happens whilst the slaves remain in the posses<g ref="char:EOLhyphen"/>sion of the family without change by the intervention of credit<g ref="char:EOLhyphen"/>ors
-<pb n="5" facs="tcp:038963_0005_101238D33244C640"/>
+<pb n="5" facs="unknown:038963_0005_101238D33244C640"/>
 or purchasers since the contending parties would be those whose interest had been contemplated by the testators, the be<g ref="char:EOLhyphen"/>quest ought to take place, but that the case of such intervening claims not being in the view of the testators it ought to be con<g ref="char:EOLhyphen"/>sidered how far they should in equity prevent the devise of the manumission from taking effect. So far therefore as concerns the family, the court would have had no difficulty in decreeing in favor of the paupers, if the wills had directed a general emanci<g ref="char:EOLhyphen"/>pation, when permitted by law, and the legislature had permitted it without any condition annexed; but a difficulty arises from the testators' not having directed a general manumission, when al<g ref="char:EOLhyphen"/>lowed by law, but a limitted one, directing that all future gene<g ref="char:EOLhyphen"/>rations of these people born whilst their mothers were under thirty should serve to that age, founded no doubt, upon consi<g ref="char:EOLhyphen"/>derations of the interest of his family, and that of the slaves on which middle state the legislature have not declared their will, and on the other hand the legislature have permitted an unlimit<g ref="char:EOLhyphen"/>ted emancipation, but annexed a condition imposing upon the person liberating certain terms for the sake of the community, of which the persons making voluntary manumissions might judge, whether they would do the act upon these terms and use their pleasure: and on these terms the testators have not declared their minds whether they would or would not have compelled the devisees against their inclination to emancipate subject to them. Under this difficulty, the court endeavored to model a decree to effect the purpose of the paupers without essentially violating the wills, and is of opinion that the limitted manumission, ac<g ref="char:EOLhyphen"/>cording to the modifications, in the wills of the testators, can alone take place and be decreed, and that the terms for securing the public against the maintenance of the aged or infirmed, cannot be equitably imposed upon the devisees. It is therefore further decreed and ordered, that all the slaves of which the testators were possessed as their property, at the time of their respective deaths, not subject to the claims of the creditors or purchasers, before stated, and who are now above the age of forty five years, and their increase, born after their respective mothers had at<g ref="char:EOLhyphen"/>tained the age of thirty years (so soon as Robert Pleasants the executor, the several trustees, or any other person, shall in the courts of the several counties in which the said slaves respective<g ref="char:EOLhyphen"/>ly reside, enter into bonds, with approved security, payable to the justices then sitting in each court, and their successors, with condition that the said slaves shall not become chargeable to the public, or enter into one such bond for the whole in the General Court,) and all such as are now above thirty and under the age of forty-five years immediately shall be emancipated and set
-<pb n="6" facs="tcp:038963_0006_101238D53A76FEC8"/>
+<pb n="6" facs="unknown:038963_0006_101238D53A76FEC8"/>
 free to all intents and purposes, in like manner as if they had been born free; and that all who are now under the age of thirty, and whose mothers had not attained that age at the time of their birth, and all their future descendants, born whilst their mothers are in such service, do serve their several owners, until they shall respectively attain the age of thirty years, and then be in like manner free, and when their freedom shall severally take effect according to this decree, there shall be delivered to each of them, by their respective masters or mistresses, a certificate, written or printed, attesting their freedom, in such form as shall be directed by the said High Court of Chancery. That no ac<g ref="char:EOLhyphen"/>count ought to be taken of profits, it being unusual in such cases and less reasonable in this very difficult one. And the cause is remanded to the said High Court of Chancery for a state to be taken of the present condition of the several persons, and their rights ascertained, according to the principles of this decree, al<g ref="char:EOLhyphen"/>so for further proceedings to be had respecting the claims of Eli<g ref="char:EOLhyphen"/>zabeth Pleasants and Daniel Teasdale to part of the slaves, un<g ref="char:EOLhyphen"/>der titles paramount to the will of John Pleasants, and the claims of the creditors of Charles Logan, upon proper statements of the facts and exhibits relative thereto, which they are to be at liber<g ref="char:EOLhyphen"/>ty to introduce in the said court, which is ordered to be certified to the said High Court of Chancery.</p>
                               <closer>
                                  <signed>A copy, J. Brown, C. C.</signed>
@@ -189,7 +190,7 @@ free to all intents and purposes, in like manner as if they had been born free; 
                         </body>
                      </floatingText>
                   </q> if it be not misunderstood by him, whom the law requireth to en<g ref="char:EOLhyphen"/>ter it as his own, may be executed; this court doth direct that a commissioner thereof do report, first the names and sexes of the slaves of which the testators intended by the said decree, were possessed, as their property at the time of their respective deaths, not subject to the claims of the creditors or purchasers in the de<g ref="char:EOLhyphen"/>cree stated, and who were, when the decree was pronounced, above the age of forty five years, and their increase, born after their respective mothers had attained the age of thirty years (so soon as Robert Pleasants, the executor, the several trustees or any other person, shall in the courts of the several counties, in which the said slaves respectively reside, enter into bonds, which approved securities, payable to the justices then sitting in each court, and their successors, with condition that the said slaves shall not be<g ref="char:EOLhyphen"/>come chargeable to the public, or enter into one such bond for the whole in the General Court) and all such as were, when the decree was pronounced, above thirty and under the age of forty-five years, and secondly, the names and sexes of the slaves of which the testators were possessed as their property at the time of their respective deaths, and who were, when the decree was pronounced, under the age of thirty, and whose mothers had not attained that age at their birth: and this court doth order, that when the free<g ref="char:EOLhyphen"/>dom
-<pb n="7" facs="tcp:038963_0007_101238D820778218"/>
+<pb n="7" facs="unknown:038963_0007_101238D820778218"/>
 of the slaves shall severally take effect, according to the de<g ref="char:EOLhyphen"/>cree of the Court of Appeals, there shall be delivered to each of them, by their respective masters or mistresses, a certificate, written or printed, attesting their freedom in this form:— is emancipated and set free according to the decree of the Court of Appeals, in May, one thousand seven hundred and ninety-nine.</p>
             </div>
             <div type="days_proceedings">
@@ -222,7 +223,7 @@ of the slaves shall severally take effect, according to the de<g ref="char:EOLhy
                </div>
             </div>
             <div type="lists_of_names">
-               <pb n="8" facs="tcp:038963_0008_101238DB2D4C3CB8"/>
+               <pb n="8" facs="unknown:038963_0008_101238DB2D4C3CB8"/>
                <head>LIST of NEGROES in the possession of Samuel Pleasants, held under the wills of John &amp; Jonathan Pleasants; whose ages were ascertained by Thomas Pleasants, James Pleasants. Wil<g ref="char:EOLhyphen"/>liam Moseley and Frederick Woodson, on the 19th day of Au<g ref="char:EOLhyphen"/>gust, 1799.</head>
                <div type="list_of_names">
                   <head>Persons above the age of <hi>45</hi> years.</head>
@@ -249,7 +250,7 @@ of the slaves shall severally take effect, according to the de<g ref="char:EOLhy
                      </gap> 3.</p>
                </div>
                <div type="list_of_names">
-                  <pb n="9" facs="tcp:038963_0009_101238DD81F9B4F0"/>
+                  <pb n="9" facs="unknown:038963_0009_101238DD81F9B4F0"/>
                   <p>
                      <table>
                         <head>Persons born of mothers under <hi>30</hi> years old, and entitled to fredom at <gap reason="illegible: indecipherable" extent="1 span">
@@ -480,7 +481,7 @@ of the slaves shall severally take effect, according to the de<g ref="char:EOLhy
                      </table>
                   </p>
                   <p>
-                     <pb n="10" facs="tcp:038963_0010_101238E0752149B0"/>
+                     <pb n="10" facs="unknown:038963_0010_101238E0752149B0"/>
                      <table>
                         <row>
                            <cell role="label">
@@ -716,7 +717,7 @@ of the slaves shall severally take effect, according to the de<g ref="char:EOLhy
                      </table>
                   </p>
                   <p>
-                     <pb n="11" facs="tcp:038963_0011_101238E2CFE006A0"/>
+                     <pb n="11" facs="unknown:038963_0011_101238E2CFE006A0"/>
                      <table>
                         <row>
                            <cell role="label">
@@ -900,7 +901,7 @@ of the slaves shall severally take effect, according to the de<g ref="char:EOLhy
                   <head>Persons between <hi>30</hi> and <hi>45</hi> years old.</head>
                   <p>Janey 1, Phillis 2, Hannah 3, invalids, Peter 4.</p>
                   <p>
-                     <pb n="12" facs="tcp:038963_0012_101238E66D9B52D0"/>
+                     <pb n="12" facs="unknown:038963_0012_101238E66D9B52D0"/>
                      <table>
                         <head>Persons born of mothers under <hi>30</hi> years old and entitled to freedom at that age.</head>
                         <row>
@@ -985,7 +986,7 @@ of the slaves shall severally take effect, according to the de<g ref="char:EOLhy
                   <head>Persons born after their mothers were <hi>30</hi> years old.</head>
                   <p>Anthony 1, Arthur 2, Louisa 3, Emmily 4, Ned 5, Daniel 6, Bob Grey 7, Paul Grey 8, Tarlton 9, Bartlet 10, Critty 11, Su<g ref="char:EOLhyphen"/>key (a cripple) 12, Charlotte 13, Milly 14, Billy 15, Sally 16, Jack 17, Tom 18, Ursula 19, Moses 20, Jack 21, Mirtilla 22, Jessee 23, Kesiah 24, Frederick 25, Tom 26, Doctor 27, John 28, Rachel 29, Sally 30, Gaby 31, Winny 32, Diey 33, Elijah 34, Caesar 35, Mourning Woodson 36, Fanny Woodson 37, Sam Wood<g ref="char:EOLhyphen"/>son 38, Joseph Woodson 39, Lewis Moseley 40, Letty Moseley 41, Sterling 42, Peter 43, Frank 44.</p>
                   <p>
-                     <pb n="13" facs="tcp:038963_0013_101238E8D8C41298"/>
+                     <pb n="13" facs="unknown:038963_0013_101238E8D8C41298"/>
                      <table>
                         <head>Persons born of Mothers under <hi>30</hi> years old, and entitled to free<g ref="char:EOLhyphen"/>dom at that age.</head>
                         <row>
@@ -1216,7 +1217,7 @@ of the slaves shall severally take effect, according to the de<g ref="char:EOLhy
                      </table>
                   </p>
                   <p>
-                     <pb n="14" facs="tcp:038963_0014_101238EC386AD348"/>
+                     <pb n="14" facs="unknown:038963_0014_101238EC386AD348"/>
                      <table>
                         <row>
                            <cell role="label">
@@ -1460,7 +1461,7 @@ of the slaves shall severally take effect, according to the de<g ref="char:EOLhy
                      </table>
                   </p>
                   <p>
-                     <pb n="15" facs="tcp:038963_0015_101238EF33016368"/>The foregoing lists were made in pursuance of a decree of the High Court of Chancery. Given under hands the day and year above written.</p>
+                     <pb n="15" facs="unknown:038963_0015_101238EF33016368"/>The foregoing lists were made in pursuance of a decree of the High Court of Chancery. Given under hands the day and year above written.</p>
                   <closer>
                      <signed>
                         <list>
@@ -1617,7 +1618,7 @@ of the slaves shall severally take effect, according to the de<g ref="char:EOLhy
                </closer>
             </div>
             <div type="judgment">
-               <pb n="16" facs="tcp:038963_0016_101238F0DC73B100"/>
+               <pb n="16" facs="unknown:038963_0016_101238F0DC73B100"/>
                <p>BETWEEN ROBERT PLEASANTS, son and heir of John Pleasants, <hi>Plaintiff,</hi> and Cary Pleasants and Mary Pleasants his wife, late Mary Logan, ad<g ref="char:EOLhyphen"/>ministratrix of Charles Logan, and devisee of John Pleasants &amp; Jonathan Pleasants, deceased, Elizabeth Pleasants, administra<g ref="char:EOLhyphen"/>trix of Joseph Pleasants, deceased, Isaac Pleasants and Jane his wife, Samuel Pleasants, junior, Thomas Pleasants, junior, and Margaret his wife. Robert Langley and Elizabeth his wife, Daniel Teasdale and Margaret his wife, late Margaret Langley, Elizabeth Langley the younger, and Anne May, <hi>Defendants.</hi>
                </p>
                <p>And between Ned, a pauper, <hi>Plaintiff,</hi> and Elizabeth Pleasants, <hi>Defendant.</hi>
@@ -1644,7 +1645,7 @@ of the slaves shall severally take effect, according to the de<g ref="char:EOLhy
                </list>
                <list>
                   <pb n="17"
-                      facs="tcp:038963_0017_101238F36EB6A610"
+                      facs="unknown:038963_0017_101238F36EB6A610"
                       rendition="simple:additions"/>
                   <head>In the possession of the estate of the late John May. Sally, now 42 years of age.</head>
                   <item>
@@ -1705,7 +1706,7 @@ of the slaves shall severally take effect, according to the de<g ref="char:EOLhy
                <p>A List of Negroes that are part of those, or the descendants of those Negroes, appraised as the estate of John Pleasants, of Curles (deceased) in the month of August, 1773, said to have been sold to him the said Pleasants, by Robert Langley, now deceased, and which appears to have been made previously liable by an in<g ref="char:EOLhyphen"/>strument of writing now on record in the county of Dinwiddie, for the payment of £ 300 currency, due Roger Atkinson, now dec'd, dated October the 21, 1765, and which are now in the possession of the different persons placed opposite to their names, or at the head of each list</p>
                <p>
                   <pb n="18"
-                      facs="tcp:038963_0018_1012362F53E35EA0"
+                      facs="unknown:038963_0018_1012362F53E35EA0"
                       rendition="simple:additions"/>
                   <table>
                      <head>In the possession of Daniel Teasdale, held in right of his wife Margaret, daughter of Robert Langley.</head>
